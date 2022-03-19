@@ -1,0 +1,4 @@
+#Sat Mar 19 14:01:51 EET 2022
+base.0=/home/kajo/AndroidStudioProjects/bloc_login/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
